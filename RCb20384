@@ -1,0 +1,59 @@
+#line 1"C:\\Users\\User\\source\\repos\\IP 2\\IP 2\\IP 2.rc"
+#line 1
+// !:@8?B @5AC@A>2, A>740==K9 2 Microsoft Visual C++.
+//
+#line 4
+#include "resource.h"
+#line 6
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// !>740=> 87 @5AC@A0 TEXTINCLUDE 2.
+//
+#include "winres.h"
+#line 13
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+#line 16
+/////////////////////////////////////////////////////////////////////////////
+// @5AC@AK  CAA:89 ( >AA8O)
+#line 19
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE 25, 1
+#line 22
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+#line 28
+1 TEXTINCLUDE
+BEGIN
+"resource.h\0"
+END
+#line 33
+2 TEXTINCLUDE  
+BEGIN
+"#include ""winres.h""\r\n"
+"\0"
+END
+#line 39
+3 TEXTINCLUDE  
+BEGIN
+"\r\n"
+"\0"
+END
+#line 45
+#endif    // APSTUDIO_INVOKED
+#line 47
+#endif    // @5AC@AK  CAA:89 ( >AA8O)
+/////////////////////////////////////////////////////////////////////////////
+#line 52
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// !>740=> 87 @5AC@A0 TEXTINCLUDE 3.
+//
+#line 59
+/////////////////////////////////////////////////////////////////////////////
+#endif    // =5 APSTUDIO_INVOKED
